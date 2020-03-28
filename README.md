@@ -1,1 +1,1 @@
-Michał Pierzak, gr 12c, s16560
+Michał Pietrzak, gr 12c, s16560
