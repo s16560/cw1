@@ -29,7 +29,7 @@ namespace Cw1
             //Java Future
             //C# Task async/await
 
-            Console.WriteLine("koniec");
+            Console.WriteLine("koniec programu");
         }
     }
 }

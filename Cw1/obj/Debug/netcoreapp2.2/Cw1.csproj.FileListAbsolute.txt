@@ -1,0 +1,12 @@
+C:\Users\Michal\Desktop\cw1\Cw1\bin\Debug\netcoreapp2.2\Cw1.deps.json
+C:\Users\Michal\Desktop\cw1\Cw1\bin\Debug\netcoreapp2.2\Cw1.runtimeconfig.json
+C:\Users\Michal\Desktop\cw1\Cw1\bin\Debug\netcoreapp2.2\Cw1.runtimeconfig.dev.json
+C:\Users\Michal\Desktop\cw1\Cw1\bin\Debug\netcoreapp2.2\Cw1.dll
+C:\Users\Michal\Desktop\cw1\Cw1\bin\Debug\netcoreapp2.2\Cw1.pdb
+C:\Users\Michal\Desktop\cw1\Cw1\obj\Debug\netcoreapp2.2\Cw1.csprojAssemblyReference.cache
+C:\Users\Michal\Desktop\cw1\Cw1\obj\Debug\netcoreapp2.2\Cw1.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Desktop\cw1\Cw1\obj\Debug\netcoreapp2.2\Cw1.AssemblyInfoInputs.cache
+C:\Users\Michal\Desktop\cw1\Cw1\obj\Debug\netcoreapp2.2\Cw1.AssemblyInfo.cs
+C:\Users\Michal\Desktop\cw1\Cw1\obj\Debug\netcoreapp2.2\Cw1.dll
+C:\Users\Michal\Desktop\cw1\Cw1\obj\Debug\netcoreapp2.2\Cw1.pdb
+C:\Users\Michal\Desktop\cw1\Cw1\obj\Debug\netcoreapp2.2\Cw1.genruntimeconfig.cache
