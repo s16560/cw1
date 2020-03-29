@@ -28,7 +28,7 @@ namespace Cw1
             //JS Promise async/await
             //Java Future
             //C# Task async/await
-
+            Console.WriteLine("test zmiana 2");
             Console.WriteLine("koniec programu");
         }
     }
